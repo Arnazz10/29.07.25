@@ -7,7 +7,7 @@ Today was a productive day filled with **language learning, backend exploration,
 ---
 
 ### ✅ 1. **Revising DSA Fundamentals in Java**
-- Revisited essential data structures like `Array`, `LinkedList`, `Stack`, and `Queue`.
+- Revisited essential data structures like `Array`, `LinkedList`, `Stack`,`Queue` and  `Hashmap`.
 - Brushed up on algorithm basics:
   - Searching and sorting techniques
   - Recursion and its flow in the call stack
