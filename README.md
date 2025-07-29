@@ -25,6 +25,7 @@ Today was a productive day filled with **language learning, backend exploration,
   - Connected basic endpoints to dummy frontend
   - Understood the role of **annotations** like `@Autowired`, `@Service`, `@Component`
 - Installed Postman to test APIs easily.
+
 - 📌 **Next Goal**: Dive deeper into JPA & database layer using MySQL.
 
 ---
