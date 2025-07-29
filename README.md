@@ -35,6 +35,7 @@ Today was a productive day filled with **language learning, backend exploration,
   - Ownership & Borrowing concepts
   - `let`, `mut`, and type inference
 - Wrote a small program printing Fibonacci numbers using `for` loop.
+
 - 📌 **Feeling**: Rust is strict but powerful — memory safety is 🔥
 
 ---
